@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in Java
 
 - 🎓 **Background**: Enthusiastic about software engineering and systems programming.
 - 💻 **Specialties**: Focused on **Java** for robust application development and **C** for low-level programming and performance-critical systems.
-- 🌱 **Learning**: Currently diving deeper into advanced algorithms and exploring new technologies in both backend and systems development.
+- 🌱 **Learning**: Currently on 42 Málaga. Learning Java backend.
 - 🌍 **Languages**: Fluent in both English and Spanish.
 
 ---
@@ -36,7 +36,7 @@ Here’s a quick overview of some of my C projects from 42 Málaga:
 | **[so_long](https://github.com/mferrod/42enjoyer/tree/main/so_long)**         | A little game in 2D.                           | [View Repo](#)             |
 | **[pipex](https://github.com/mferrod/42enjoyer/tree/main/pipex)**           | A project to start with pipes.                 | [View Repo](#)             |
 | **[Philosophers](https://github.com/mferrod/42enjoyer/tree/main/philosophers/)**    | A project to learn some concurrent programming.| [View Repo](#)             |
-| **[minishell](https://github.com/mferrod/minishell)**       | A project using all last projects in one.      | [View Repo](#)             | (NOT PUBLISHED YET)
+| **[minishell](https://github.com/mferrod/minishell)**       | A project using all last projects in one. (NOT PUBLISHED YET)      | [View Repo](#)             |
 
 ---
 
