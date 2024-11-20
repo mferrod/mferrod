@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in Java
 Here are some of my projects written in Java:
 
 - **[GestionMultiServicios](https://github.com/mferrod/GestionMultiServicios_release)**: It is a business management and invoicing program integrated with Arduino for vehicle geolocation within the company. It is available for both mobile devices (Android only) and desktop devices.
-- **[Another Project Name](https://github.com/mferrod/AEMETiempo)**: It is an Android application that allows you to view the weather for all municipalities in Spain using the AEMET API.
+- **[AEMETiempo](https://github.com/mferrod/AEMETiempo)**: It is an Android application that allows you to view the weather for all municipalities in Spain using the AEMET API.
 
 ### C Projects
 
