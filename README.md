@@ -28,7 +28,7 @@ Here’s a quick overview of some of my C projects from 42 Málaga:
 
 | Project Name             | Description                                    | Link                       |
 |--------------------------|------------------------------------------------|----------------------------|
-| **[LibFT](https://github.com/mferrod/42enjoyer/tree/main/libft)**           | A library of some functions of C.              | [View Repo](#)             |
+| **[LibFT](https://github.com/mferrod/42enjoyer)**           | A library of some functions of C.              | [View Repo](#)             |
 | **[ft_printf](https://github.com/mferrod/42enjoyer/tree/main/printf)**       | Replication of printf from C.                  | [View Repo](#)             |
 | **[get_next_line](https://github.com/mferrod/42enjoyer/tree/main/get_next_line)**   | Get the line break and get next line.          | [View Repo](#)             |
 | **[born2beroot](#)**     | A project using virtualized systems.           | [View Repo](#)             |
