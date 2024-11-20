@@ -42,7 +42,7 @@ Here’s a quick overview of some of my C projects from 42 Málaga:
 
 ### 📫 Contact Me
 - Email: [marianofdezrodero@gmail.com](mailto:marianofdezrodero@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mariano-fern%C3%A1ndez-rodero-358512228/)
+- LinkedIn: [Mariano Fernández Rodero](https://www.linkedin.com/in/mariano-fern%C3%A1ndez-rodero-358512228/)
 
 ---
 
