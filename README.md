@@ -42,7 +42,7 @@ Here’s a quick overview of some of my C projects from 42 Málaga:
 
 ### 42 Profile
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/marianof)](https://github.com/oakoudad/badge42)
+[![marianof's 42 stats](https://badge.mediaplus.ma/darkblue/marianof)](https://github.com/oakoudad/badge42)
 
 ### 📫 Contact Me
 - Email: [marianofdezrodero@gmail.com](mailto:marianofdezrodero@gmail.com)
