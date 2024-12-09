@@ -40,7 +40,7 @@ Here’s a quick overview of some of my C projects from 42 Málaga:
 
 ---
 
-### **42 Profile(https://profile.intra.42.fr/users/marianof)**
+### **[42 Profile](https://profile.intra.42.fr/users/marianof)**
 
 [![marianof's 42 stats](https://badge.mediaplus.ma/darkblue/marianof)](https://github.com/oakoudad/badge42)
 
